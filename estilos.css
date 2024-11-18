@@ -1,0 +1,102 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Pacifico&family=Parisienne&family=Satisfy&display=swap');
+body{ 
+    background-image: url(Sin\ título1.jpeg);
+    padding-right: 20px;
+    padding-left: 20px;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+h1 {
+    font-family: "Parisienne", cursive;
+    font-size: 3em;
+    color: darkgoldenrod;
+    text-align: center;
+    margin-bottom: 5px;
+}
+h2 {
+    font-family: "Pacifico";
+    color: #FFE4C4;
+}
+#eslogan{
+    font-family: "Caveat", serif;
+    font-style: italic;
+    text-align: center;
+    color: cornsilk;
+    border: 2px cornsilk;
+    font-size: 40px;
+}
+#textonormal {
+    font-family: "Satisfy";
+    size: 1.2em;
+    color:#FFE4C4;
+    line-height: 2;
+    padding: 30px;
+}
+
+ul li a {
+    font-size: 1.5em;          
+    font-family: "Pacifico", cursive;  
+    color: white;
+    text-decoration: none; 
+       
+}
+a:link {
+    color: white;
+
+}
+a:hover {
+    font-style: bold;
+
+}
+a:Active {
+    color: darkgoldenrod;
+
+}
+p {
+    font-family: "Satisfy";
+    font-size: 1.2em;
+    color: #FFE4C4;
+    line-height: 2%;
+    padding: 30px;
+}
+#contenedor-logo {
+    text-align: center;  
+}
+  
+  #logocafe {
+    width: 200px;        
+    height: 200px;       
+    border-radius: 50%;  
+    object-fit: cover;   
+}
+#contenedor-fondo {
+    width: 100vw;           
+    height: 100vh;          
+    
+    
+    background-image: url(https://calle56.com/wp-content/uploads/2021/04/taza-cafe-780x470.jpg); 
+    background-size: cover;  
+    background-position: center;  
+    background-repeat: no-repeat; 
+}
+ul li{
+    color: white;
+}
+form {
+    border: solid 2px;
+    border-color: darkgoldenrod;
+    border-radius: 20px;
+    width: 50%;
+    padding: 30px;
+    background-color: black;
+}
+label {
+    font-family: "Caveat";
+    color: cornsilk;
+    size: 1.5em;
+}
+  
+  
